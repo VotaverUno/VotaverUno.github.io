@@ -18,5 +18,5 @@
 
 
 
-<iframe src="//player.bilibili.com/player.html?aid=886999996&bvid=BV11K4y1J73c&cid=305893385&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" height=510 width=510> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=886999996&bvid=BV11K4y1J73c&cid=305893385&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" fullscreen="true"> </iframe>
 
