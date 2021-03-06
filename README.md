@@ -1,8 +1,4 @@
-- [新开篇](#---)
-
-- [近日分享](#----)
-
-  <iframe src="//player.bilibili.com/player.html?aid=886999996&bvid=BV11K4y1J73c&cid=305893385&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=21041619&auto=1&height=66"></iframe>
 
 ## 新开篇
 
