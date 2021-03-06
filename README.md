@@ -2,7 +2,7 @@
 
 - [近日分享](#----)
 
-  <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=8506694&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+  <iframe src="//player.bilibili.com/player.html?aid=886999996&bvid=BV11K4y1J73c&cid=305893385&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 新开篇
 
