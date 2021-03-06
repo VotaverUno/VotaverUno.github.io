@@ -1,3 +1,9 @@
+# 目录
+
+[TOC]
+
+
+
 ## 新开篇
 
 <img src="./docs/luvit1.png" alt="preview" style="zoom: 200%;" />
@@ -11,6 +17,4 @@
 感想到时候补上！
 
 
-
-[test]: "./Tryone.md"
 
