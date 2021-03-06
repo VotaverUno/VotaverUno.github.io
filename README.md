@@ -2,7 +2,7 @@
 
 - [近日分享](#----)
 
-  <bgsound src="http://music.163.com/song?id=21041619&userid=557854362" loop=-1> 
+  <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=8506694&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
 
 ## 新开篇
 
