@@ -2,7 +2,7 @@
 
 ## 新开篇
 
-<img src="./docs/luvit1.png" alt="preview" style="zoom:;" />
+<img src="./docs/luvit1.png" alt="preview"  />
 
 2021-03-06
 
