@@ -2,7 +2,7 @@
 
 - [近日分享](#----)
 
-  
+  <bgsound src="http://music.163.com/song?id=21041619&userid=557854362" loop=-1> 
 
 ## 新开篇
 
